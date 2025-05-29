@@ -1,0 +1,90 @@
+{
+    "version": "2.0",
+    "syncInterval": 0,
+    "systemVars": {
+        "camera": {
+            "flySpeed": 0.5,
+            "startingCameraPos": [
+                -20.199012756347658,
+                -1.551325798034668,
+                -35.72502899169922
+            ],
+            "startingCameraAltitudeAzimuth": [
+                -0.005959773436188698,
+                5.923149585723877
+            ]
+        },
+        "ProjMtx_textureName": "Output"
+    },
+    "snapshot": {
+        "resourceViewNodeIndex": 2,
+        "resourceViewResourceIndex": 5,
+        "cameraPos": [
+            -12.617158889770508,
+            -2.8080708980560304,
+            -21.514209747314454
+        ],
+        "cameraAltitudeAzimuth": [
+            -0.1345295011997223,
+            6.282644271850586
+        ],
+        "savedVariables": [
+            {
+                "name": "RenderSize",
+                "value": "1280,960"
+            },
+            {
+                "name": "Scene",
+                "value": "6"
+            },
+            {
+                "name": "Animate",
+                "value": "true"
+            },
+            {
+                "name": "NumBounces",
+                "value": "17"
+            },
+            {
+                "name": "SkyboxBrightness",
+                "value": "1.000000"
+            },
+            {
+                "name": "RaysPerPixel",
+                "value": "16"
+            },
+            {
+                "name": "MainLightPower",
+                "value": "20.000000,20.000000,15.384000"
+            },
+            {
+                "name": "MainLightColor",
+                "value": "0.975490,0.975490,0.975490"
+            },
+            {
+                "name": "MaterialAlbedo",
+                "value": "0.651961,0.393094,0.393094"
+            },
+            {
+                "name": "MaterialEmissive",
+                "value": "0.000000,0.000000,0.000000"
+            },
+            {
+                "name": "SpecularChance",
+                "value": "0.261000"
+            },
+            {
+                "name": "SpecularRoughness",
+                "value": "0.621000"
+            },
+            {
+                "name": "SpecularColor",
+                "value": "0.686275,0.511342,0.511342"
+            },
+            {
+                "name": "RefractionChance",
+                "value": "0.253000"
+            }
+        ]
+    }
+}
